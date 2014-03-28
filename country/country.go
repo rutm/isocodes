@@ -2,7 +2,7 @@ package country
 
 import (
 	"strconv"
-    . "pkg.appto.mobi/v1/isocodes"
+    . "github.com/rutm/isocodes"
 )
 
 const (
